@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Yanxi Liu</a>. Master's student in Computer Science at the University of Virginia(UVA).
+subtitle: <a href='#about'>Yanxi Liu</a>. Master's student in Computer Science at the University of Virginia(UVA).
 
 profile:
   align: right
@@ -18,19 +18,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year master's student in Computer Sciences at the University of Virginia(UVA). Before that, I worked in the industry for three years as a data analyst and engineering designer. At that time, I was also a team leader and managed a team of 10 people then. I obtained my bachelor's degree in Civil Engineering at Wuhan University of Technology(WHUT). I'm optimistic, humble, and curious about new knowledge. I love playing sports and photography.
+I am a second-year master's student in Computer Sciences at the University of Virginia(UVA). Before that, I worked in the industry for three years as a data analyst and engineering designer. At that time, I was also a team leader and managed a team of 10 people. I obtained my bachelor's degree in Civil Engineering at Wuhan University of Technology(WHUT). I'm optimistic, humble, and curious about new knowledge. I love playing sports and photography.
 
 My previous research experience included urban systems and large Language Models.
 
 My long-term research interests lie in AI for social good, Computer vision, Large Language Models, HCI, and HRI. I'm trying to find some interdisciplinary research directions.
 
-I'm actively applying for Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
+I'm actively applying for Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperation or potential interviews.
 
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!--
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-# <!DOCTYPE html>
+<!DOCTYPE HTML>
+-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -74,4 +76,6 @@ I'm actively applying for Ph.D. positions in 2025 Fall. Feel free to email me fo
 </body>
 </html>
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!--
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-->
